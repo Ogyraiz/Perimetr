@@ -1,0 +1,65 @@
+h1 {font-size: 133px;
+
+color: #ffc107;
+align-items: center;}
+
+header {background-color: rgb(241, 244, 246);}
+
+.block{
+    text-align: left;
+
+}
+
+
+.card-title {text-align: center;}
+
+p.one 
+{font-size: 15px;
+  font-weight: 300;
+
+}
+
+section.card{
+  margin-bottom:30px;
+  
+}
+
+section.one{
+  margin-bottom: 20px;
+  font-weight: 600;
+  font-size: 14pt;
+}
+
+#one{
+  background-color: rgb(223, 225, 225);
+  margin-right: 20px;
+}
+
+.brick{
+  width: 100px;
+  height: 100px;
+  background-color: orange;
+  border-radius: 10px;
+  margin: 10px;
+ margin-top: 50px;
+
+  
+}
+.card-text1{
+  color: rgb(126, 123, 123);
+}
+
+#two{
+  
+  font-size: 14pt;
+  font-weight: 200;
+  text-decoration: none;
+
+  
+}
+
+footer {
+  margin-top: 30px;
+  background-color: rgb(241, 244, 246);
+
+}
